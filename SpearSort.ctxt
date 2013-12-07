@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SpearSort()
+comment0.text=\r\n\ inits\ the\ Arraylist\ and\ inits\ the\ list\ stream\r\n
+comment1.params=
+comment1.target=java.util.List\ getSortedSonnets()
+comment1.text=\r\n\ acccessor\ method\ returns\ the\ sorted\ sonnets\ by\ sonnet\ number.\r\n\ @return\ sonnets\ \ list\ of\ the\ sorted\ sonnets.\r\n
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SpearOut()
+comment1.params=sonnets
+comment1.target=void\ WriteSonnets(java.util.List)
+comment2.params=
+comment2.target=java.util.List\ readSonnets()
+numComments=3

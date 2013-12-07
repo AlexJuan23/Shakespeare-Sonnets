@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=SpearIn()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ SpearIn.\ set\ sonnet\ collection\ as\ ArrayList\ and\ initiates\ the\ call\r\n\ to\ read\ Shakespeare\ sonnets\ from\ txtfile.\r\n\ \r\n
+comment1.params=
+comment1.target=java.util.List\ getRawSonnets()
+comment1.text=\r\n\ accessor.\ returns\ list\ of\ the\ raw\ sonnets.\r\n\ @return\ sonnets\ \ \ ArrayList\ of\ the\ sonnets\r\n
+comment2.params=
+comment2.target=void\ readSonnetsBetter()
+comment2.text=\ \r\n\ streams\ all\ shakespeare\ sonnets\ from\ file\ and\ stores\ them\ line\ by\ line\ in\ an\ ArrayList\r\n
+numComments=3
