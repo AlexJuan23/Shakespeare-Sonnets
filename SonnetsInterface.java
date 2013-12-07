@@ -33,6 +33,7 @@ public class SonnetsInterface
     }
     public void Begin()
     {
+        PrintWelcome();
         boolean finished =  false;
         
         while(!finished) {
@@ -42,5 +43,10 @@ public class SonnetsInterface
                 finished = true;
             }
         }
+    }
+    public void PrintWelcome()
+    {
+        System.out.println("please enter a Sonnet number you would like to view");
+        System.out.println("hint: there are 154 of them!");
     }
 }
