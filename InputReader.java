@@ -1,14 +1,14 @@
 import java.util.Scanner;
 /**
- * Readstyped text input from text terminal
+ * Reads typed text input from text terminal
  * 
- * @author (Alex Aguilar) 
+ * @author (Axle) 
  * @version (0.1)
  */
 public class InputReader
 {
     private Scanner reader;
-    // instance variables - replace the example below with your own
+    
    
     /**
      * Constructor for InputReader
@@ -19,10 +19,7 @@ public class InputReader
     }
 
     /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
+     * accessor for retrieving the user typed data.
      */
     public int getNumber()
     {

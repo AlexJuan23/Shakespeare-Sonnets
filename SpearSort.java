@@ -4,8 +4,8 @@ import java.io.IOException;
 /**
  * sorts the rawSonnet data by sonnet number and places it into and ArrayList
  * 
- * @author (SUper awesome) 
- * @version (1)
+ * @author (axle) 
+ * @version (0.1)
  */
 public class SpearSort
 {

@@ -1,10 +1,11 @@
 #BlueJ class context
 comment0.params=
 comment0.target=SpearSearch()
-comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ SpearSearch\r\n
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ SpearSearch.\ grabs\ the\ sorted\ sonnets\ and\ puts\ them\ into\ an\ arraylist\r\n
 comment1.params=number
 comment1.target=LittleSpears\ search(int)
-comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment1.text=\r\n\ accessor\ for\ retrieving\ individual\ sonnets\ by\ number\r\n
 comment2.params=i
 comment2.target=void\ print(int)
+comment2.text=\r\n\ prints\ a\ copy\ of\ an\ individual\ sonnet\ by\ number\r\n
 numComments=3

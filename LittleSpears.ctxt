@@ -4,4 +4,5 @@ comment0.target=LittleSpears(java.util.List)
 comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LittleSpears\r\n
 comment1.params=
 comment1.target=java.lang.String\ toString()
+comment1.text=\r\n\ returns\ a\ string\ that\ represents\ a\ whole\ sonnet.\r\n\ @return\ \ formatted\ sonnet\r\n
 numComments=2

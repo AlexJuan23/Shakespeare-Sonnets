@@ -3,8 +3,8 @@ import java.io.IOException;
 /**
  * retrieve any sonnet you wish
  * 
- * @author (Awesom) 
- * @version (a version number or a date)
+ * @author (Axle) 
+ * @version (0.1)
  */
 public class SpearSearch
 {
@@ -13,7 +13,7 @@ public class SpearSearch
     private SpearSort sortedSonnets;
 
     /**
-     * Constructor for objects of class SpearSearch
+     * Constructor for objects of class SpearSearch. grabs the sorted sonnets and puts them into an arraylist
      */
     public SpearSearch() throws IOException
     {
@@ -23,15 +23,15 @@ public class SpearSearch
     }
 
     /**
-     * An example of a method - replace this comment with your own
-     * 
-     * @param  y   a sample parameter for a method
-     * @return     the sum of x and y 
+     * accessor for retrieving individual sonnets by number
      */
     public LittleSpears search(int number)
     {
        return sonnets.get(number-1);
     }
+    /**
+     * prints a copy of an individual sonnet by number
+     */
     public void print(int i)
     {
          

@@ -1,10 +1,10 @@
 import java.util.*;
 import java.io.Serializable;
 /**
- * Write a description of class LittleSpears here.
+ * recieves a whole sonnet from SpearSort stores it and formats a tostring for it.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (axle) 
+ * @version (0.1)
  */
 public class LittleSpears implements Serializable
 {
@@ -19,6 +19,10 @@ public class LittleSpears implements Serializable
         sonnet = new ArrayList<String>();
         this.sonnet.addAll(tsonnet);
     }
+    /**
+     * returns a string that represents a whole sonnet.
+     * @return  formatted sonnet
+     */
     public String toString()
     {
         String printSonnet= "";

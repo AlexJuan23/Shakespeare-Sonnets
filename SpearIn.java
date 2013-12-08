@@ -27,7 +27,7 @@ public class SpearIn
     public SpearIn() throws IOException
     {
         sonnets = new ArrayList<String>();
-        readSonnetsBetter();
+        readSonnets();
         
         
     }
@@ -43,7 +43,7 @@ public class SpearIn
      * streams all shakespeare sonnets from file and stores them line by line in an ArrayList
      */
    
-    private void readSonnetsBetter() throws IOException  {
+    private void readSonnets() throws IOException  {
       
         Scanner inputStream = null;
         
