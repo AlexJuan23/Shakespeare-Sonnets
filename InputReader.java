@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * Reads typed text input from text terminal
+ * Reads the typed text input from text terminal
  * 
  * @author (Axle) 
  * @version (0.1)
